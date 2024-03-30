@@ -1,7 +1,7 @@
 ## Olá! Sou o Eduardo Tiyo!
 
 - 🔭 Atualmente estou à procura de um estágio em desenvolvimento web/software
-- 🌱 Estou aprendendo C++, Javascript
+- 🌱 Estou aprendendo C++
 - 📫 Meu contato: eduardotiyo0@gmail.com
 
   ##
@@ -20,9 +20,6 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Tiyo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiyo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiyo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiyo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiyo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Tiyo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
