@@ -1,7 +1,7 @@
 ## Olá! Sou o Eduardo Tiyo!
 
 - 🔭 Atualmente estou à procura de um estágio em desenvolvimento web/software
-- 🌱 Estou aprendendo C++
+- 🌱 Estou aprendendo C++ e Javascript
 - 📫 Meu contato: eduardotiyo0@gmail.com
 
   ##
