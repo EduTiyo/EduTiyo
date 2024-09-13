@@ -1,7 +1,6 @@
 ## Olá! Sou o Eduardo Tiyo!
 
-- 🔭 Atualmente estou à procura de um estágio em desenvolvimento web/software
-- 🌱 Estou aprendendo C++ e Javascript
+- 🔭 Estagiário na Coordenadoria de Gestão de Tecnologia da Informação UTFPR-CM
 - 📫 Meu contato: eduardotiyo0@gmail.com
 
   ##
