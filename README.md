@@ -22,6 +22,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiyo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiyo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Tiyo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/node-original.svg" />
   <img align="center" alt="Tiyo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Tiyo-gif" src="https://cdn.discordapp.com/attachments/1223673295900246026/1223673988803465338/-killua-zolduck.gif?ex=661ab635&is=66084135&hm=b9f921cff3dc593dfb540ec1d604987b9800ffba4f6ec02e3979c02c0f85cc49&" />
 </div>
