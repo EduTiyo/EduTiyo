@@ -1,6 +1,6 @@
 ## Olá! Sou o Eduardo Tiyo!
 
-- 🔭 Estagiário na Coordenadoria de Gestão de Tecnologia da Informação UTFPR-CM
+- 🔭 Atualmente trabalhando em um projeto de desenvolvimento de software com NestJS e NextJS
 - 📫 Meu contato: eduardotiyo0@gmail.com
 
   ##
